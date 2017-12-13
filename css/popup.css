@@ -1,0 +1,35 @@
+.title {
+	font-size: 1.2em;
+	text-align: center;
+	margin-bottom: 4px; 
+}
+
+.crypto {
+	min-width: 200px;
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.crypto li {
+	margin-bottom: 3px;
+	border-radius: 4px;
+	overflow: hidden; 
+}
+
+.last,
+.pair {
+	padding: 4px;
+	color: #FFF;
+	text-align: center;
+}
+
+.last {
+	font-size: 1.3em;
+	background: #2c3e50;
+}
+
+.pair {
+	font-size: 1.1em;
+	background: #27ae60;
+}

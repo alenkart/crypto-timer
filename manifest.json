@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "CryptoTimer",
+  
+  "description": "Get the cryptocurrencies prices every 5 secs",
+  
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+ "icons": { 
+ 	"16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png" 
+  }
+  
+}
