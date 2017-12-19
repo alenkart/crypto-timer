@@ -4,6 +4,10 @@
 	margin-bottom: 4px; 
 }
 
+.canvas {
+  border: 1px solid black;
+}
+
 .crypto {
 	min-width: 200px;
 	list-style: none;
@@ -15,6 +19,7 @@
 	margin-bottom: 3px;
 	border-radius: 4px;
 	overflow: hidden; 
+  cursor: pointer;
 }
 
 .last,
